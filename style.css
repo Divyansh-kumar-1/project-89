@@ -1,0 +1,14 @@
+body{
+background-image: linear-gradient(silver,lime,cyan,gold);
+margin-top: 10%;
+}
+#login_div{
+  background-color: white;
+  height: 15%;
+  width: 55%;
+}
+#adduser{
+  margin-top: 10px;
+  width: 10%;
+  font-size: 125%;
+}
